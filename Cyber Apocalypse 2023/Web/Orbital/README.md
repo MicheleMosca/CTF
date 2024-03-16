@@ -36,7 +36,7 @@ COPY files /communications/
 
 Now copy the **session** cookie from the **home** page:
 
-![session-cookie](.images/session-cookie.png)
+![session-cookie](%2Eimages/session-cookie.png)
 
 
 And use it to do this request to get the flag (with a **path traversal**):
